@@ -22,7 +22,10 @@
       "icon": "./public/icons/icon-512x512.icns"
     },
     "linux": {
-      "target": ["deb", "rpm"],
+      "target": [
+        "deb",
+        "rpm"
+      ],
       "icon": "./public/icons/icon-512x512.png"
     },
     "nsis": {
