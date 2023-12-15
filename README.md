@@ -1,3 +1,3 @@
 # Pokédex Electron
 
-Web Page Breanch.
+Web Page Branch.
