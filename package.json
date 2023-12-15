@@ -17,6 +17,14 @@
       "target": "nsis",
       "icon": "./public/icons/icon-512x512.png"
     },
+    "mac": {
+      "target": "dmg",
+      "icon": "./public/icons/icon-512x512.icns"
+    },
+    "linux": {
+      "target": ["deb", "rpm"],
+      "icon": "./public/icons/icon-512x512.png"
+    },
     "nsis": {
       "oneClick": false,
       "allowToChangeInstallationDirectory": true
