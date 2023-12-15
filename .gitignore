@@ -132,3 +132,4 @@ dist
 # Certified
 *.bat
 *.pfx
+.DS_Store
