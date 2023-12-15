@@ -44,7 +44,9 @@
     "typescript",
     "electron"
   ],
-  "author": "github.com/PedroSmaxY",
+  "author": {
+    "name": "PedroSmaxY"
+  },
   "license": "MIT",
   "devDependencies": {
     "electron": "^28.0.0",
