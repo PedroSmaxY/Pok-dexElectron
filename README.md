@@ -23,6 +23,7 @@ You can check the web version clicking [HERE](https://pedrosmaxy.github.io/Poked
 ### You can download the app for your operating system by clicking the link below:
 
 ### * Windows 64-bit: [Click Here](https://drive.google.com/file/d/1WaIwDJqkacfJxqhxgb4DtLbE1tyJTnud/view?usp=sharing)
+### * MacOs: [Click Here](https://drive.google.com/file/d/18uWIcDkfc_53xA1yJNFwlz-gTqAK4H4N/view?usp=drive_link)
   
 ## **Getting Started:**
 
