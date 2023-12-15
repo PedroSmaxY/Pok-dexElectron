@@ -24,6 +24,7 @@ You can check the web version clicking [HERE](https://pedrosmaxy.github.io/Poked
 
 ### * Windows 64-bit: [Click Here](https://drive.google.com/file/d/1WaIwDJqkacfJxqhxgb4DtLbE1tyJTnud/view?usp=sharing)
 ### * MacOS: [Click Here](https://drive.google.com/file/d/18uWIcDkfc_53xA1yJNFwlz-gTqAK4H4N/view?usp=drive_link)
+### * Linux DEB: [Click Here](https://drive.google.com/file/d/1uLBlOa16vW-ws-o_Fphc13BiM-iGy4y6/view?usp=sharing)
   
 ## **Getting Started:**
 
