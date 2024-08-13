@@ -6,7 +6,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-Pokédex Electron is a desktop application that allows users to browse the entire Pokémon database. It is built with Electron and TypeScript and uses the PokéAPI to fetch data. **You can check the web version [HERE](https://pedrosmaxy.github.io/PokedexElectron/).**
+Pokédex Electron is a desktop application that allows users to browse the entire Pokémon database. It is built with Electron and TypeScript and uses the PokéAPI to fetch data. **You can check the web version [here](https://pedrosmaxy.github.io/PokedexElectron/).**
 
 ## Table of Contents
 
