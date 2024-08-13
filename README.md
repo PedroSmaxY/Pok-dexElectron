@@ -34,7 +34,7 @@ To download the latest version of **Pokédex Electron, visit the [Releases page]
 ```bash
 git clone https://github.com/PedroSmaxY/PokedexElectron.git
 ```
-### 3. Run
+### 3. Install dependencies
 ```bash
 npm install
 ```
